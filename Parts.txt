@@ -1,0 +1,8 @@
+Measurements of Individual Parts
+
+Engine
+Screw Depth 6mm;Diameter 3mm
+Stem length 15mm
+Motor length 46.5mm, diameter 28mm
+Cable cutout 9mm
+RPM approx. 16.000, gear ratio around 2 if using 7cm diameter wheels
